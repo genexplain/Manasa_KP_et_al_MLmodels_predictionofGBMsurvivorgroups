@@ -7,6 +7,5 @@ Glioblastoma (GBM) is a very aggressive malignant brain tumor with the vast majo
 
 The Machine Learning model developed in this article is deployed as a web tool **[here](https://bkltest.genexplain.com/)**
 
-The sample output of the Machine Learning Web tool is given in **Models** folder in this repository 
 
 
